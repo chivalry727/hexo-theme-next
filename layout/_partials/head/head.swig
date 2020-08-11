@@ -17,6 +17,7 @@
 {%- endif %}
 {%- if theme.favicon.android_manifest %}
   <link rel="manifest" href="{{ url_for(theme.favicon.android_manifest) }}">
+
 {%- endif %}
 {%- if theme.favicon.ms_browserconfig %}
   <meta name="msapplication-config" content="{{ url_for(theme.favicon.ms_browserconfig) }}">
