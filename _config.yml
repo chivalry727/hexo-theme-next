@@ -261,9 +261,9 @@ tag_icon: false
 # Front-matter variable (unsupport animation).
 reward_settings:
   # If true, reward will be displayed in every article by default.
-  enable: false
-  animation: false
-  #comment: Donate comment here.
+  enable: true
+  animation: true
+  comment: 若是觉得合胃口，就请我喝杯咖啡.
 
 reward:
   wechatpay: /images/wechatpay.png
