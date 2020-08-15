@@ -163,7 +163,8 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: https://tva1.sinaimg.cn/large/008aQ1h9ly1ghidg6qa4bj31hc0u0qbd.jpg
+  #url: https://tva1.sinaimg.cn/large/008aQ1h9ly1ghidg6qa4bj31hc0u0qbd.jpg
+  url: https://tva1.sinaimg.cn/large/008aQ1h9ly1ghqb9xxkl6j31ig3401kx.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
