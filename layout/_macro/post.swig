@@ -239,7 +239,7 @@
           {%- endif %}
           <div class="post-tags">
             {%- for tag in post.tags.toArray() %}
-              <a href="{{ url_for(tag.path) }}" rel="tag">{{ tag_indicate }} {{ tag.name }}</a>
+              <a href="{{ url_for(tag.path) }}" rel="tag"><i class="fa fa-tag">{{ tag.name }}</i></a>
             {%- endfor %}
           </div>
         {%- endif %}
