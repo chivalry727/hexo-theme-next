@@ -179,14 +179,14 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/chivalry727/ChivalryBlog || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
-  #Weibo: https://weibo.com/yourname || fab fa-weibo
+  E-Mail: mailto:zhongxuebin171980062@gmail.com || fa fa-envelope
+  #Weibo: https://weibo.com/|| fab fa-weibo
   Google: https://www.google.com.hk/ || fab fa-google
   Twitter: https://twitter.com/ || fab fa-twitter
-  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
-  #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
+  #FB Page: https://www.facebook.com/ || fab fa-facebook
+  #StackOverflow: https://stackoverflow.com/ || fab fa-stack-overflow
   YouTube: https://youtube.com/ || fab fa-youtube
-  #Instagram: https://instagram.com/yourname || fab fa-instagram
+  #Instagram: https://instagram.com/ || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
